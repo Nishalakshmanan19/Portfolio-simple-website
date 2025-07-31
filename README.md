@@ -28,7 +28,7 @@ A structured and minimalistic portfolio site developed using semantic HTML and m
 
 ## 💬 Feedback & Collaboration
 
-Open to constructive feedback and collaboration ideas. Feel free to fork, adapt, or suggest improvements.
+Open to constructive feedback and collaboration ideas. Feel free to suggest improvements.
 
 ---
 
