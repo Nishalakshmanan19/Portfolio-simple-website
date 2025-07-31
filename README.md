@@ -7,7 +7,7 @@ A structured and minimalistic portfolio site developed using semantic HTML and m
 
 ## 🔗 Live Preview
 
-[View Website](https://your-deployed-link.com)  
+[View Website](https://nishalakshmanan19.github.io/Portfolio-simple-website/)  
 
 ---
 
